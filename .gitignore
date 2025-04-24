@@ -25,7 +25,7 @@ vendor/
 
 # Otros archivos específicos del proyecto
 /Log/
-/Error de entrada/
+Error\ de\ entrada/
 /subir-por-lotes.bat
 
 # Carpeta .git no se ignora usualmente en el propio repositorio, pero por si se copia a otro
