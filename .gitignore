@@ -1,0 +1,32 @@
+# Archivos y carpetas del sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Node/Yarn
+node_modules/
+yarn.lock
+
+# PHP: Composer
+vendor/
+
+# Entornos locales / configuración sensible
+.env
+*.env
+
+# Archivos temporales
+*.tmp
+*.swp
+*.bak
+
+# Sistema de control de versiones de otros
+.svn/
+.hg/
+
+# Otros archivos específicos del proyecto
+/Log/
+/Error de entrada/
+/subir-por-lotes.bat
+
+# Carpeta .git no se ignora usualmente en el propio repositorio, pero por si se copia a otro
+!.git/
