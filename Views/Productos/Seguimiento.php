@@ -1,0 +1,3 @@
+<?php encabezado() ?>
+
+<?php pie() ?>
